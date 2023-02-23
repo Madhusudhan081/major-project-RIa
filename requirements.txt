@@ -1,0 +1,5 @@
+1. pip install django
+2. pip install Pillow
+3. pip install django-allauth
+4. pip install django-ckeditor
+5. pip install six
